@@ -1,0 +1,13 @@
+﻿Movie Titles,Numeric Gross Revenues,Nominal Gross Revenues,kNN Predictions,SVM RBF Predictions
+House of Gucci,67245223, Average,Average,Average
+Licorice Pizza,761126,Below Average,Average,Average
+Encanto,116059641,Above Average,Average,Average
+Resident Evil: Welcome to Raccoon City,24273747,Below Average,Below Average,Below Average
+Eternals,384328707,Above Average,Average,Average
+Spencer,11150247,Below Average,Below Average,Below Average
+Sooryavanshi,1902386,Below Average,Below Average,Below Average
+The Beta Test,37539,NaN,NaN,NaN
+Clifford the Big Red Dog,45728000,Average,Average,Average
+Ghostbusters: Afterlife,145091594,Above Average,Average,Average
+King Richard,21602551,Below Average,Below Average,Average
+Bad Luck Banging or Loony Porn,361434,Below Average,Below Average,Below Average
